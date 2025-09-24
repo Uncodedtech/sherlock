@@ -1,10 +1,10 @@
 APClips
+Coders Rank
 CyberDefenders
-Freelancer
+GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,9 +12,9 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+SlideShare
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
@@ -22,4 +22,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
