@@ -2,8 +2,10 @@ APClips
 BoardGameGeek
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -18,7 +20,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
