@@ -1,11 +1,10 @@
 APClips
 BoardGameGeek
+CyberDefenders
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
