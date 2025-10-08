@@ -1,15 +1,18 @@
 APClips
 Coders Rank
-Freelancer
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
@@ -18,3 +21,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
+xHamster
