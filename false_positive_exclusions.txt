@@ -4,15 +4,12 @@ DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Topcoder
