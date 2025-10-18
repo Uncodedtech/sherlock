@@ -1,6 +1,5 @@
 APClips
-Coders Rank
-Cults3D
+BreachSta.rs Forum
 DeviantArt
 GNOME VCS
 Giphy
@@ -10,9 +9,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
-opennet
-phpRU
 svidbook
+xHamster
