@@ -1,9 +1,8 @@
 APClips
+Anilist
 DeviantArt
 GNOME VCS
 Giphy
-Itch.io
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -14,4 +13,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
