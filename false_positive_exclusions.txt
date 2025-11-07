@@ -1,4 +1,5 @@
 APClips
+Archive.org
 DeviantArt
 GNOME VCS
 Giphy
@@ -14,4 +15,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
