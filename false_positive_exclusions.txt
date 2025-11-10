@@ -1,6 +1,8 @@
 APClips
+Anilist
 Archive.org
-CGTrader
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -8,10 +10,13 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
+Slashdot
+Snapchat
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
+threads
