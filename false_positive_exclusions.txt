@@ -1,22 +1,13 @@
 APClips
-Anilist
 Archive.org
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
-LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
-Slashdot
-Snapchat
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
-threads
