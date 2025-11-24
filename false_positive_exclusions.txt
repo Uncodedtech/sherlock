@@ -1,7 +1,5 @@
 APClips
-Academia.edu
 Archive.org
-CGTrader
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -10,11 +8,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Smule
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+xHamster
