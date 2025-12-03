@@ -1,10 +1,9 @@
 APClips
 Archive.org
-Blogger
-Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hubski
 LushStories
 PocketStars
 Reddit
@@ -13,5 +12,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
