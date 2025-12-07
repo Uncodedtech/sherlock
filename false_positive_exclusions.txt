@@ -1,17 +1,15 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
-Coders Rank
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
+Minecraft
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Trovo
@@ -19,3 +17,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
