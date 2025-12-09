@@ -6,9 +6,8 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
-Minecraft
+LushStories
 PocketStars
 Reddit
 RocketTube
