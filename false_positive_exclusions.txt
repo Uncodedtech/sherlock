@@ -16,8 +16,7 @@ RocketTube
 Splice
 Spotify
 Trovo
-TryHackMe
+Vero
 Weblate
 YandexMusic
-opennet
 svidbook
