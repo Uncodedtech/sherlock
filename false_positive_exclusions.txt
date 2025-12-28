@@ -1,19 +1,20 @@
 APClips
+Academia.edu
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
 SlideShare
-Smule
 Splice
 Spotify
 Weblate
