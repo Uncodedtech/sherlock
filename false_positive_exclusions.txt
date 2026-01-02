@@ -14,6 +14,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 mercadolivre
