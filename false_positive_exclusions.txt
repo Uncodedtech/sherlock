@@ -7,8 +7,8 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
+Realmeye
 Reddit
 RocketTube
 Scribd
@@ -18,5 +18,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
