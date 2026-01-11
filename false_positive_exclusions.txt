@@ -1,13 +1,16 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -20,7 +23,8 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+eintracht
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
