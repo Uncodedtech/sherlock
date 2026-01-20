@@ -6,10 +6,11 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
