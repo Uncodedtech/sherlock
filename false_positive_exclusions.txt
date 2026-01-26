@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -7,11 +8,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
