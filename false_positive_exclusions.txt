@@ -1,12 +1,11 @@
 APClips
+Anilist
 Archive.org
 Code Snippet Wiki
-DeviantArt
-Eintracht Frankfurt Forum
-Fandom
 GeeksforGeeks
 Giphy
 Hubski
+ImgUp.cz
 LushStories
 PocketStars
 Realmeye
@@ -17,11 +16,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
