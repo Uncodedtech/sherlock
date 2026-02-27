@@ -1,15 +1,17 @@
 APClips
 Archive.org
+Audiojungle
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
+OurDJTalk
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -19,9 +21,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
