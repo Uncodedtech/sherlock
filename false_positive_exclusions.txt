@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -9,7 +8,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-OurDJTalk
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -26,6 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
