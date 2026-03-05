@@ -2,11 +2,9 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -30,3 +28,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
