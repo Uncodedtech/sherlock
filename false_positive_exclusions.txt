@@ -1,11 +1,9 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -20,10 +18,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Strava
-Trovo
 TryHackMe
 Weblate
 YandexMusic
