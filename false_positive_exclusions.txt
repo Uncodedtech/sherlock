@@ -1,13 +1,14 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -18,17 +19,17 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
