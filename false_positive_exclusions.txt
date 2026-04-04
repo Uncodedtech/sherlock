@@ -9,7 +9,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
