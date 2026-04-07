@@ -1,7 +1,7 @@
 7Cups
 APClips
 Archive.org
-Carbonmade
+Bandcamp
 Codolio
 DeviantArt
 Discord.bio
@@ -22,6 +22,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Trovo
@@ -33,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
