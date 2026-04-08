@@ -2,8 +2,8 @@
 APClips
 Archive.org
 Bandcamp
+Coders Rank
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,7 +13,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,10 +21,8 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
