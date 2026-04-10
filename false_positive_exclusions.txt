@@ -3,8 +3,6 @@ APClips
 Archive.org
 Bandcamp
 Codolio
-Cults3D
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -21,13 +19,12 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
