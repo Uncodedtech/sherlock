@@ -13,8 +13,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,11 +26,9 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 dailykos
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
