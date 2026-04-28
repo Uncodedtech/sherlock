@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -19,14 +20,17 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -35,5 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
