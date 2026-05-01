@@ -1,6 +1,5 @@
 7Cups
 APClips
-Academia.edu
 Airliners
 Apple Discussions
 Archive.org
@@ -14,8 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
+Minecraft
+Outgress
 Patched
 Pornhub
 Rarible
@@ -30,6 +30,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -38,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
