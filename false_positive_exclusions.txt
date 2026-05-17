@@ -4,15 +4,14 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
-Minecraft
+LushStories
 Patched
 Pornhub
 Rarible
@@ -25,9 +24,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
 authorSTREAM
 dailykos
 igromania
