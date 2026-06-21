@@ -1,7 +1,5 @@
 7Cups
-APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -14,12 +12,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +22,7 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
