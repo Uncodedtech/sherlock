@@ -22,7 +22,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -33,6 +32,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+furaffinity
 igromania
 interpals
 mercadolivre
