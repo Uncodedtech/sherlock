@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,7 +16,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
+LiveJournal
 Odysee
 PCGamer
 Patched
@@ -44,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
