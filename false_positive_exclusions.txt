@@ -10,11 +10,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -25,9 +27,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
