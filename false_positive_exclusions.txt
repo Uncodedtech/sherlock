@@ -16,12 +16,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -35,7 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Telegram
+Trakt
 Trovo
 TryHackMe
 Velomania
