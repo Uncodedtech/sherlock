@@ -8,6 +8,7 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,12 +21,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 mercadolivre
