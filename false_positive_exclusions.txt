@@ -1,19 +1,15 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -24,8 +20,6 @@ Hubski
 Instapaper
 Linktree
 Minecraft
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -54,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
