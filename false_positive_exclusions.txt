@@ -1,11 +1,9 @@
-7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -26,7 +24,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -52,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
