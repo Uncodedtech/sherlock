@@ -14,13 +14,13 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -35,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -49,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
