@@ -5,7 +5,6 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -13,16 +12,18 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -45,7 +46,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
